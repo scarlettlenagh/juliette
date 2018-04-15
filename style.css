@@ -19,6 +19,10 @@ h1 {
   color: #b38a9d; # lilac
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .intro {
   width: 90%;
   max-width: 900px;
